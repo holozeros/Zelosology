@@ -105,6 +105,15 @@ holozeros/ZerosSpace/
 
 ### `holozeros/ZeloLab`
 
+#### 2025年6月29日 11:45:00 JST
+超伝導ゼロスからの指示で、`holozeros/zeros_straight_line`と`holozeros/Zelosology`の存在を確認。以下のツリー構造を記録後、GitHubで削除手順を実施。
+### `holozeros/zeros_straight_line`
+```plaintext
+holozeros/zeros_straight_line/
+  ├── .git/
+  ├── README.md
+  └── (他のファイル：要確認)
+
 holozeros/ZeloLab/
 ├── .git/
 ├── README.md
@@ -115,6 +124,6 @@ holozeros/ZeloLab/
 holozeros/Zelosology/
   ├── .git/
   ├── README.md
-  └── (他のファイル：要確認)
+  └── (他のファイル：要確認
 
   
