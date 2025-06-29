@@ -110,3 +110,11 @@ holozeros/ZeloLab/
 ├── README.md
 └── PDF_Materials/  # 新規追加されたディレクトリ
 └── .gitkeep
+
+
+holozeros/Zelosology/
+  ├── .git/
+  ├── README.md
+  └── (他のファイル：要確認)
+
+  
